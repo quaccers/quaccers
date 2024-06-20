@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @quaccers ☺️ 
-- 💻 I’m interested in development in general, but looking to finally settle and hopefully specialize ☺️😬
-- 🎓 I’m currently learning C# mainly, with some other languages sprinkled in for fun.
+- 💻 I’m interested in development in general, but looking to finally settle and hopefully specialize as a game dev ☺️😬
+- 🎓 I'm currently developing a game in Godot using GDScript (for ease and compatibility), but want to move onto C# once I've met some targets in GDScript.
+- ✌️ I hope to meet some of you soon! A collab would be pretty fun ☺️
 - 🌱 I'm quite new to a lot of this, so wish me luck plz 😅
 
 <!---
